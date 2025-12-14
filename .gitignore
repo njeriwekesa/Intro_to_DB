@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# SQL swap/temp files
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+
